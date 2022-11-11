@@ -28,7 +28,7 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ali/PycharmProjects/Text_mining&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ali/PycharmProjects/monday-addons-12&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -96,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667627097020</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="analyse">
+      <created>1667627753248</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667627753248</updated>
+    </task>
+    <task id="LOCAL-00006" summary="analyse">
+      <created>1667627980986</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667627980986</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
